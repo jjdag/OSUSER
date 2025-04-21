@@ -2,7 +2,7 @@
 
 ## Sherlock 13
 
-Ce repo contient tous les fichiers nécéssaires pour compiler et executer une implémentation en C avec GUI en SDL du fameux jeux d'enquête et d'investigation, Sherlock 13.
+Ce repo contient tous les fichiers nécéssaires pour compiler et executer une implémentation en C avec GUI en SDL du fameux jeu d'enquête et d'investigation, Sherlock 13.
 
 ## Compilation
 
